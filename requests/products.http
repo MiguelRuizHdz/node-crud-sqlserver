@@ -8,9 +8,9 @@ POST {{api}}
 Content-Type: application/json
 
 {
-    "name": "PRODUCTO 31!",
-    "description": "gaming PRODUCTO 31!",
-    "quantity": 100
+    "name": "mouse Ryzer",
+    "description": "Gaming mouse",
+    "quantity": 15
 }
 
 ### Getting a product
